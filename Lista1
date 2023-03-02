@@ -1,0 +1,8 @@
+1)API: É um conjunto de regras, que são utilzadas para realizar um tarefa em uma biblioteca;
+Biblioteca: A biblioteca é a implementação das regras de uma API,vindo da API dos detalhes da implementação da mesma para usa-la;
+
+2) a) É util de para melhor organização e manunteção do código.
+  b)É um padrão de aplicação,utilizado para persistir dados,separado da regra de negocios.
+  c) É um padrão de projeto utilizado que garante que uma classe tenha apenas um instacia.
+
+3) JDBC(Java Database Connectivity) é um recurso que é utilizado para realizar a conexção entre uma aplicação Java e um banco de dados relacional.
