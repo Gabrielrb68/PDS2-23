@@ -6,3 +6,14 @@ Biblioteca: A biblioteca é a implementação das regras de uma API,vindo da API
   c) É um padrão de projeto utilizado que garante que uma classe tenha apenas um instacia.
 
 3) JDBC(Java Database Connectivity) é um recurso que é utilizado para realizar a conexção entre uma aplicação Java e um banco de dados relacional.
+
+4) CRUD é um sigla para "Create,Read,Update,Delete", que é um conjunto de comandos relacionado a linguagem SQL para a modificar informações dentro do banco de dados,como: Criar,ler,atualizar e deletar informações do banco.
+
+5)a. Connection é uma classe responsavel por estabelecer a conexão(como diz o nome) com o banco de dados.
+b. PreparedStatement é uma classe utilizada para preparar instruções na linguagem SQL com parâmetros.
+c. Statement é uma classe utilizada executar as instruções previamente estabelecidas pelo "PreparedStatement" no banco de dados
+
+6) 
+
+7) Swing é API grafica utilizada para a personalizar/elaborar telas para o software,normalmente ja inclusa em compiladores Java,enquanto o WindowBuilder é uma extensão do Eclipse.
+
